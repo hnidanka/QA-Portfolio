@@ -11,25 +11,19 @@ Hi! I am an aspiring Quality Assurance Specialist (Manual QA) with a keen eye fo
 ---
 
 ### 🛠️ My Toolbox
-**Test Management** | Jira, Trello, TestRail (Agile/Scrum workflows) |
-| **Web Testing** | Chrome DevTools (Console, Network, Application, Elements) |
-| **API Testing** | Postman (Manual verification & Collections) |
-| **Databases** | SQL, MongoDB (Querying and data verification) |
-| **Frontend Background** | JavaScript (ES6+), React, Tailwind CSS, HTML5, CSS3 |
-| **Methodologies** | SDLC/STLC, ISTQB Standards, Mobile & Web Testing |
-| **Infrastructure & Tools** | Git/GitHub, Docker (basics), Linux |
-| **Languages** | English, Polish, Ukrainian, Russian |
+* **Test Management**  Jira, Trello, TestRail (Agile/Scrum workflows) 
+* **Web Testing**  Chrome DevTools (Console, Network, Application, Elements) 
+* **API Testing**  Postman (Manual verification & Collections) 
+* **Databases**  SQL, MongoDB (Querying and data verification) 
+* **Frontend Background**  JavaScript (ES6+), React, Tailwind CSS, HTML5, CSS3 
+* **Methodologies**  SDLC/STLC, ISTQB Standards, Mobile & Web Testing 
+* **Infrastructure & Tools**  Git/GitHub, Docker (basics), Linux 
+* **Languages**  English, Polish, Ukrainian, Russian 
 
 ---
 
 ### 🐛 Sample Bug Reports
 *Every report I create includes: a clear title, steps to reproduce, expected vs. actual results, and visual evidence (screenshots/logs).*
-
-| Bug ID | Title | Priority | Status |
-| :--- | :--- | :--- | :--- |
-| BUG-001 | Missing email validation on the Contact Form | High | Open |
-| BUG-002 | "Buy Now" button unresponsive on Mobile (Safari/iOS) | Critical | Resolved |
-| BUG-003 | Incorrect price formatting when switching currency to EUR | Medium | Open |
 
 ---
 
